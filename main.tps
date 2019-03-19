@@ -11,16 +11,34 @@ MaxPos.x=-1
 MaxPos.y=-1
 NormalPos.left=4
 NormalPos.top=36
-NormalPos.right=921
-NormalPos.bottom=583
+NormalPos.right=1562
+NormalPos.bottom=490
 Class=LaTeXView
 Document=main.tex
 
 [Frame0_View0,0]
-TopLine=0
-Cursor=121
+TopLine=329
+Cursor=16016
+
+[Frame1]
+Flags=0
+ShowCmd=1
+MinPos.x=-1
+MinPos.y=-1
+MaxPos.x=-1
+MaxPos.y=-1
+NormalPos.left=4
+NormalPos.top=36
+NormalPos.right=1562
+NormalPos.bottom=490
+Class=LaTeXView
+Document=Chapters\Chapter1.tex
+
+[Frame1_View0,0]
+TopLine=108
+Cursor=8695
 
 [SessionInfo]
-FrameCount=1
+FrameCount=2
 ActiveFrame=0
 
