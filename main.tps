@@ -17,8 +17,8 @@ Class=LaTeXView
 Document=main.tex
 
 [Frame0_View0,0]
-TopLine=329
-Cursor=16016
+TopLine=0
+Cursor=41
 
 [Frame1]
 Flags=0
@@ -35,10 +35,10 @@ Class=LaTeXView
 Document=Chapters\Chapter1.tex
 
 [Frame1_View0,0]
-TopLine=108
-Cursor=8695
+TopLine=21
+Cursor=1616
 
 [SessionInfo]
 FrameCount=2
-ActiveFrame=0
+ActiveFrame=1
 
